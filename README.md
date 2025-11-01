@@ -133,7 +133,8 @@ Hi, I’m Nadia Hafsa — a Data Science & Analytics Enthusiast passionate about
 I enjoy creating interactive dashboards, automated data pipelines, and analytics-driven business solutions.
 
 💼 **Freelance Focus:**
-Data analysis • Visualization • Automation • Business dashboards
+“I can audit your database for insights – setting up, writing queries, optimizing slow
+queries, and creating dashboards connected to a database.”
 
 📫 **Connect**: 
 GitHub: https://github.com/NadiaHafsa | LinkedIn: www.linkedin.com/in/nadia-hafsa-93986975
